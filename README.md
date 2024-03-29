@@ -1,1 +1,1 @@
-Pequeno resumo sobre tipo de dados do typescript
+Pequeno estudo sobre os tipos de dados do typescript.
